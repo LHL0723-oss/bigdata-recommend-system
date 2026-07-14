@@ -15,6 +15,3 @@
 - 姓名：梁洪逦
 - 学号：20241091098
 - 日期：2026年7月14日
-
-## 仓库地址
-https://github.com/LHL0723-oss/bigdata-recommend-system
